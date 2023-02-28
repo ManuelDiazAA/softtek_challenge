@@ -18,14 +18,14 @@ Project is created with:
 	
 ## Setup
 To run this project:
-    1.- Create a new Virtual Enviroment
-    2.- Install requeriments.txt with pip
-    3.- This project include the sqlite file ("main.db") but you can create a new one running "prepare_db.py" file
-    4.- Run local server debug
-        ```
-        python ./app/app.py
-        ```
-    
+1. Create a new Virtual Enviroment
+2. Install requeriments.txt with pip
+3. This project include the sqlite file ("main.db") but you can create a new one running "prepare_db.py" file
+4. Run local server debug
+```
+python ./app/app.py
+```
+
 ## API Routes
 The local sever is allocated in por 5000, and these are the endpoinds for challenges
 1.- /get_ord_status for challenge 1
