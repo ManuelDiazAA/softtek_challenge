@@ -28,9 +28,9 @@ python ./app/app.py
 
 ## API Routes
 The local sever is allocated in por 5000, and these are the endpoinds for challenges
-1.- /get_ord_status for challenge 1
-2.- /get_ord_season for challenge 2
-3.- /get_weather_change for challenge 3
+1. /get_ord_status for challenge 1
+2. /get_ord_season for challenge 2
+3. /get_weather_change for challenge 3
 
 ## Testing
 Run the nex command to run the testing
